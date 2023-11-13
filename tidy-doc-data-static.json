@@ -12,7 +12,8 @@
       "secondResource": "Storybook",
       "secondResourceLink": "https://storybook.js.org/"
     },
-    "publish": false
+    "publish": false,
+    "inProgerss": true
   },
   "1": {
     "title": "Info",
