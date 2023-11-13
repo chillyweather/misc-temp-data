@@ -14,7 +14,7 @@
         "secondResourceLink": "https://storybook.js.org/"
       },
       "publish": true,
-      "inProgeress": true
+      "inProgress": true
     },
     "1": {
       "title": "Variants",
@@ -182,7 +182,7 @@
         "secondResourceLink": "https://github.com/"
       },
       "publish": true,
-      "inProgeress": true
+      "inProgress": true
     },
     "1": {
       "title": "Property",
@@ -276,7 +276,7 @@
         "secondResourceLink": "https://www.youtube.com/watch?v=-0exw-9YJBo&t=12s"
       },
       "publish": true,
-      "inProgeress": true
+      "inProgress": true
     }
   }
 }
