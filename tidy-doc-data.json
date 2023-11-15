@@ -265,7 +265,7 @@
   },
   "8895:4572": {
     "0": {
-      "title": "Label",
+      "title": "test",
       "index": 0,
       "datatype": "header",
       "element": {
@@ -280,14 +280,6 @@
       "publish": true,
       "inProgress": true,
       "docId": ""
-    },
-    "1": {
-      "title": "test",
-      "index": 1,
-      "datatype": "text",
-      "text": "test",
-      "publish": true
-    },
-    "docId": ""
+    }
   }
 }
