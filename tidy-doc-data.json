@@ -287,6 +287,7 @@
       "datatype": "text",
       "text": "test",
       "publish": true
-    }
+    },
+    "docId": ""
   }
 }
