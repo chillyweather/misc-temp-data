@@ -251,13 +251,40 @@
       },
       "content": {
         "firstResource": "wiki",
-        "firstResourceLink": "https://en.wikipedia.org/wiki/Timeline_of_Kyoto",
+        "firstResourceLink": "https://en.wiktionary.org/wiki/%E4%BA%AC%E5%B8%AB",
         "secondResource": "",
         "secondResourceLink": ""
       },
       "publish": true,
       "inProgress": true,
-      "docId": "8897:4692"
+      "docId": "8898:4701"
+    },
+    "1": {
+      "title": "Variants",
+      "index": 1,
+      "datatype": "element",
+      "publish": false
+    },
+    "2": {
+      "title": "Timeline of Kyoto.",
+      "index": 2,
+      "datatype": "text",
+      "text": "In the Sengoku period, the city suffered extensive destruction in the Ōnin War of 1467–1477, and did not really recover until the mid-16th century.[9] During the war, battles between samurai factions spilled into the streets, and came to involve court nobility (kuge) and religious factions as well. Nobles' mansions were transformed into fortresses, deep trenches dug throughout the city for defense and as firebreaks, and numerous buildings burned. The city has not seen such widespread destruction since.\n\nIn the late 16th century, Toyotomi Hideyoshi reconstructed the city by building new streets to double the number of north–south streets in central Kyoto, creating rectangle blocks superseding ancient square blocks. Hideyoshi also built earthwork walls called odoi (御土居) encircling the city. Teramachi Street in central Kyoto is a Buddhist temple quarter where Hideyoshi gathered temples in the city.",
+      "publish": true
+    },
+    "3": {
+      "title": "Kyoto Prefecture",
+      "index": 3,
+      "datatype": "link",
+      "publish": true,
+      "content": {
+        "sources": [
+          {
+            "source": "Kyoto Prefecture",
+            "link": "https://en.wikipedia.org/wiki/Kyoto_Prefecture"
+          }
+        ]
+      }
     }
   }
 }
