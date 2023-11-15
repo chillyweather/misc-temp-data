@@ -155,25 +155,38 @@
         "secondResourceLink": "https://github.com/"
       },
       "publish": true,
-      "inProgress": true
+      "inProgress": true,
+      "docId": "8902:4737"
     },
     "1": {
-      "title": "Overview",
+      "title": "Property",
       "index": 1,
-      "datatype": "text",
-      "content": "Buttons are clickable elements that are used to trigger actions. They communicate calls to action to the user and allow users to interact with pages in a variety of ways. Button labels express what action will occur when the user interacts with it.\n",
-      "publish": true
+      "datatype": "element",
+      "publish": false
     },
     "2": {
-      "title": "Fluid versus default buttons",
+      "title": "Variants",
       "index": 2,
-      "datatype": "text",
-      "content": "Button alignment is also closely related to whether the button is treated as a default or a fluid element within a layout. When we say “fluid”, we mean that the button becomes a part of a larger, compound component by bleeding to two or more edges of its container. Rather than defining the a fluid button’s width in columns or mini units, its width is defined as a percentage (often 50%) of the container’s width. Also, as a general rule, fluid primary buttons are never left-aligned in a layout or a container—they’re always either right-aligned, or span the full width of the container.\n",
-      "publish": true
+      "datatype": "element",
+      "publish": false
     },
     "3": {
-      "title": "Do's and Don'ts",
+      "title": "Overview",
       "index": 3,
+      "datatype": "text",
+      "text": "Buttons are clickable elements that are used to trigger actions. They communicate calls to action to the user and allow users to interact with pages in a variety of ways. Button labels express what action will occur when the user interacts with it.\n",
+      "publish": true
+    },
+    "4": {
+      "title": "Fluid versus default buttons",
+      "index": 4,
+      "datatype": "text",
+      "text": "Button alignment is also closely related to whether the button is treated as a default or a fluid element within a layout. When we say “fluid”, we mean that the button becomes a part of a larger, compound component by bleeding to two or more edges of its container. Rather than defining the a fluid button’s width in columns or mini units, its width is defined as a percentage (often 50%) of the container’s width. Also, as a general rule, fluid primary buttons are never left-aligned in a layout or a container—they’re always either right-aligned, or span the full width of the container.\n",
+      "publish": true
+    },
+    "5": {
+      "title": "Do's and Don'ts",
+      "index": 5,
       "datatype": "two-columns",
       "content": {
         "subtitle1": "Do",
@@ -183,13 +196,13 @@
       },
       "publish": true
     },
-    "4": {
+    "6": {
       "title": "Related",
-      "index": 4,
+      "index": 6,
       "datatype": "link",
       "publish": true,
       "content": {
-        "inputs": [
+        "sources": [
           {
             "source": "Link component",
             "link": "https://carbondesignsystem.com/components/link/usage"
@@ -205,15 +218,21 @@
         ]
       }
     },
-    "5": {
+    "7": {
       "title": "Alignment",
-      "index": 5,
+      "index": 7,
       "datatype": "image",
       "publish": true,
       "content": {
         "localFilePath": "",
         "remoteImageLink": "https://carbondesignsystem.com/static/8fd3c3bf86e338ae28b153b5825cfe8d/92c65/button_usage_10.png"
       }
+    },
+    "8": {
+      "title": "Release Notes",
+      "index": 8,
+      "datatype": "element",
+      "publish": false
     }
   },
   "8802:7229": {
