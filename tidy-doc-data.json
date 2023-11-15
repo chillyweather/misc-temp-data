@@ -265,26 +265,28 @@
   },
   "8895:4572": {
     "0": {
-      "title": "Label",
+      "title": "Kyo info",
       "index": 0,
       "datatype": "header",
       "element": {
         "id": "8895:4572"
       },
       "content": {
-        "firstResource": "",
-        "firstResourceLink": "",
+        "firstResource": "wiki",
+        "firstResourceLink": "https://en.wikipedia.org/wiki/Kyoto",
         "secondResource": "",
         "secondResourceLink": ""
       },
       "publish": true,
-      "inProgress": true
+      "inProgress": true,
+      "docId": ""
     },
     "1": {
-      "title": "Variants",
+      "title": "test",
       "index": 1,
-      "datatype": "element",
-      "publish": false
+      "datatype": "text",
+      "text": "test",
+      "publish": true
     }
   }
 }
