@@ -265,15 +265,15 @@
   },
   "8895:4572": {
     "0": {
-      "title": "Documentation id test",
+      "title": "test",
       "index": 0,
       "datatype": "header",
       "element": {
         "id": "8895:4572"
       },
       "content": {
-        "firstResource": "wiki",
-        "firstResourceLink": "https://en.wikipedia.org/wiki/Kyoto",
+        "firstResource": "",
+        "firstResourceLink": "",
         "secondResource": "",
         "secondResourceLink": ""
       },
@@ -286,13 +286,6 @@
       "index": 1,
       "datatype": "element",
       "publish": false
-    },
-    "2": {
-      "title": "Colleges and universities",
-      "index": 2,
-      "datatype": "text",
-      "text": "Home to 40 institutions of higher education, Kyoto is one of the academic centers in Japan.[36] Kyoto University is often ranked first or second among national universities nationwide. Influential private universities such as Doshisha University and Ritsumeikan University are also located in the city, and the Kyoto Institute of Technology is considered to be among the best universities in the country for architecture and design.\n\nThe Consortium of Universities in Kyoto is a Kyoto-based higher education network consisting of three national universities, three public (prefectural and municipal) universities, 45 private universities, five other organizations, and representatives from the city government. The Consortium does not offer its own degree, but allows students to take courses at other participating universities.[37]\n\nIn addition to Japanese universities and colleges, educational institutions from other countries operate programs in the city. The Kyoto Consortium for Japanese Studies (KCJS) is a group of 14 American universities that runs overseas academic programs in Japanese language and cultural studies for university students.[38] Similarly, the Associated Kyoto Program runs a study-abroad academic program with a focus on cultural, language, and historical learning in and around the Kansai metropolitan area.\n\n",
-      "publish": true
     }
   }
 }
