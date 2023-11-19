@@ -265,7 +265,7 @@
   },
   "8895:4572": {
     "0": {
-      "title": "test",
+      "title": "Just a test",
       "index": 0,
       "datatype": "header",
       "element": {
@@ -282,10 +282,11 @@
       "docId": ""
     },
     "1": {
-      "title": "Variants",
+      "title": "Test",
       "index": 1,
-      "datatype": "element",
-      "publish": false
+      "datatype": "text",
+      "text": "Just a test, that not everything is broken.",
+      "publish": true
     }
   }
 }
