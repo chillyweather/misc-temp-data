@@ -282,14 +282,20 @@
       "docId": ""
     },
     "1": {
-      "title": "",
+      "title": "Variants",
       "index": 1,
+      "datatype": "element",
+      "publish": false
+    },
+    "2": {
+      "title": "Test",
+      "index": 2,
       "datatype": "video",
       "publish": true,
       "content": {
         "selectedVideo": 0,
         "selectedVideoContent": {
-          "element": "element",
+          "element": "video",
           "name": "You Will Never Do Anything Remarkable",
           "video": "https://www.youtube.com/embed/vmIUvp0e1bw",
           "thumbnail": "https://i.ytimg.com/vi/vmIUvp0e1bw/default.jpg"
