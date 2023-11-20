@@ -265,7 +265,7 @@
   },
   "8895:4572": {
     "0": {
-      "title": "Just a test",
+      "title": "",
       "index": 0,
       "datatype": "header",
       "element": {
@@ -277,16 +277,19 @@
         "secondResource": "",
         "secondResourceLink": ""
       },
-      "publish": true,
+      "publish": false,
       "inProgress": true,
       "docId": ""
     },
     "1": {
-      "title": "Test",
+      "title": "test of external link",
       "index": 1,
-      "datatype": "text",
-      "text": "Just a test, that not everything is broken.",
-      "publish": true
+      "datatype": "video",
+      "publish": true,
+      "content": {
+        "selectedVideo": -1,
+        "selectedVideoContent": {}
+      }
     }
   }
 }
