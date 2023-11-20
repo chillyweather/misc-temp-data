@@ -265,7 +265,7 @@
   },
   "8895:4572": {
     "0": {
-      "title": "label",
+      "title": "Label",
       "index": 0,
       "datatype": "header",
       "element": {
@@ -282,7 +282,7 @@
       "docId": ""
     },
     "1": {
-      "title": "test",
+      "title": "",
       "index": 1,
       "datatype": "video",
       "publish": true,
@@ -291,7 +291,7 @@
         "selectedVideoContent": {
           "element": "element",
           "name": "You Will Never Do Anything Remarkable",
-          "video": "https://www.youtube.com/watch?v=vmIUvp0e1bw",
+          "video": "https://www.youtube.com/embed/vmIUvp0e1bw",
           "thumbnail": "https://i.ytimg.com/vi/vmIUvp0e1bw/default.jpg"
         }
       }
