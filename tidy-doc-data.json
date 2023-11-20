@@ -265,7 +265,7 @@
   },
   "8895:4572": {
     "0": {
-      "title": "",
+      "title": "Label",
       "index": 0,
       "datatype": "header",
       "element": {
@@ -277,12 +277,12 @@
         "secondResource": "",
         "secondResourceLink": ""
       },
-      "publish": false,
+      "publish": true,
       "inProgress": true,
       "docId": ""
     },
     "1": {
-      "title": "test of external link",
+      "title": "test",
       "index": 1,
       "datatype": "video",
       "publish": true,
