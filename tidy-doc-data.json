@@ -301,5 +301,35 @@
         }
       }
     }
+  },
+  "9086:4322": {
+    "0": {
+      "title": "Numbered list test",
+      "index": 0,
+      "datatype": "header",
+      "element": null,
+      "content": {
+        "firstResource": "",
+        "firstResourceLink": "",
+        "secondResource": "",
+        "secondResourceLink": ""
+      },
+      "publish": true,
+      "inProgress": true,
+      "docId": ""
+    },
+    "1": {
+      "title": "",
+      "index": 1,
+      "datatype": "list",
+      "publish": true,
+      "content": {
+        "inputs": [
+          "first",
+          "second"
+        ],
+        "listType": "ordered"
+      }
+    }
   }
 }
