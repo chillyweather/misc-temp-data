@@ -304,7 +304,7 @@
   },
   "9086:4322": {
     "0": {
-      "title": "list test",
+      "title": "checkbox",
       "index": 0,
       "datatype": "header",
       "element": {
@@ -327,8 +327,9 @@
       "publish": true,
       "content": {
         "inputs": [
-          "sdf",
-          "dfg"
+          "123",
+          "234",
+          "345"
         ],
         "listType": "ordered"
       }
