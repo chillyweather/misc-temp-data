@@ -304,10 +304,12 @@
   },
   "9086:4322": {
     "0": {
-      "title": "Numbered list test",
+      "title": "checkbox",
       "index": 0,
       "datatype": "header",
-      "element": null,
+      "element": {
+        "id": "9086:4322"
+      },
       "content": {
         "firstResource": "",
         "firstResourceLink": "",
@@ -319,16 +321,17 @@
       "docId": ""
     },
     "1": {
-      "title": "",
+      "title": "list test",
       "index": 1,
       "datatype": "list",
       "publish": true,
       "content": {
         "inputs": [
-          "first",
-          "second"
+          "123",
+          "234",
+          "345"
         ],
-        "listType": "ordered"
+        "listType": "unordered"
       }
     }
   }
