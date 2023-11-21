@@ -304,7 +304,7 @@
   },
   "9086:4322": {
     "0": {
-      "title": "ordered list test",
+      "title": "list test",
       "index": 0,
       "datatype": "header",
       "element": {
@@ -321,14 +321,13 @@
       "docId": ""
     },
     "1": {
-      "title": "test",
+      "title": "list test",
       "index": 1,
       "datatype": "list",
       "publish": true,
       "content": {
         "inputs": [
           "sdf",
-          "dfg",
           "dfg"
         ],
         "listType": "ordered"
