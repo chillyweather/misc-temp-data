@@ -1,7 +1,7 @@
 {
   "8470:1800": {
     "0": {
-      "title": "",
+      "title": "Card",
       "index": 0,
       "datatype": "header",
       "element": {
@@ -18,18 +18,17 @@
       "docId": ""
     },
     "1": {
-      "title": "",
+      "title": "Related components and patterns",
       "index": 1,
-      "datatype": "video",
+      "datatype": "link",
       "publish": true,
       "content": {
-        "selectedVideo": 0,
-        "selectedVideoContent": {
-          "element": "video",
-          "name": "You Will Never Do Anything Remarkable",
-          "video": "https://www.youtube.com/embed/vmIUvp0e1bw",
-          "thumbnail": "https://i.ytimg.com/vi/vmIUvp0e1bw/default.jpg"
-        }
+        "sources": [
+          {
+            "source": "Card button",
+            "link": "https://www.figma.com/proto/9KXDuflEXQTfqirV9D7lYu/Amdocs-Documentation?page-id=368%3A2359&type=design&node-id=472-24925&viewport=1286%2C725%2C0.28&t=2u6Ut0hXlV2wX8Md-1&scaling=min-zoom&mode=design"
+          }
+        ]
       }
     }
   },
