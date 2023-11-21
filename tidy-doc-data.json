@@ -270,15 +270,15 @@
   },
   "8895:4572": {
     "0": {
-      "title": "Label",
+      "title": "Another test because of my stupidity",
       "index": 0,
       "datatype": "header",
       "element": {
         "id": "8895:4572"
       },
       "content": {
-        "firstResource": "",
-        "firstResourceLink": "",
+        "firstResource": "YouTube",
+        "firstResourceLink": "https://www.youtube.com/",
         "secondResource": "",
         "secondResourceLink": ""
       },
@@ -287,14 +287,8 @@
       "docId": ""
     },
     "1": {
-      "title": "Variants",
+      "title": "Thumbnail test",
       "index": 1,
-      "datatype": "element",
-      "publish": false
-    },
-    "2": {
-      "title": "Test",
-      "index": 2,
       "datatype": "video",
       "publish": true,
       "content": {
@@ -303,7 +297,7 @@
           "element": "video",
           "name": "You Will Never Do Anything Remarkable",
           "video": "https://www.youtube.com/embed/vmIUvp0e1bw",
-          "thumbnail": "https://i.ytimg.com/vi/vmIUvp0e1bw/default.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/vmIUvp0e1bw/sddefault.jpg"
         }
       }
     }
