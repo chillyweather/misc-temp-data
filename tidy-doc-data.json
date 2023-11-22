@@ -9,142 +9,118 @@
         "id": "8470:1800"
       },
       "content": {
-        "firstResource": "Invision",
-        "firstResourceLink": "https://xdc.invisionapp.com/dsm/xdc/ads-coral/nav/618b927d570ae67e07227cea/asset/62bc5a590a8fda653ca8834e/tab/usage%20guidelines?version=64e4797d08c5154790f01222&mode=preview",
-        "secondResource": "Storybook",
-        "secondResourceLink": "https://storybook.js.org/"
+        "elementDescription": "A card component is a basic building block of many user interfaces, often used in web and mobile design.\nIt is typically used to display information or content in a compact and organized manner, often featuring an image, title, and description. Card components can be used in various ways, such as displaying articles, products, or profiles, and can be customized to fit the specific needs of a project.",
+        "externalResources": [
+          {
+            "source": "Invision",
+            "link": "https://xdc.invisionapp.com/dsm/xdc/ads-coral/nav/618b927d570ae67e07227cea/asset/62bc5a590a8fda653ca8834e/tab/usage%20guidelines?version=64e4797d08c5154790f01222&mode=preview"
+          },
+          {
+            "source": "Storybook",
+            "link": "https://storybook.js.org/"
+          }
+        ]
       },
       "publish": true,
       "inProgress": true,
       "docId": ""
     },
     "1": {
-      "title": "Variants",
+      "title": "Intro",
       "index": 1,
-      "datatype": "element",
-      "publish": false
-    },
-    "2": {
-      "title": "Info",
-      "index": 2,
       "datatype": "text",
-      "text": "A card is a visually appealing element used to present short or compact pieces of information. It is visualized as a container which groups various pieces of content that acts as entry point to detailed information. It displays content and actions on a single topic.\nA card can display different element such as images, text, link, charts, buttons, etc.",
+      "text": "A card is a container used to group various pieces of content which acts as entry point to detailed information. It displays content and actions on a single topic.\nA card should be easy to scan for relevant and actionable information. Elements, like text and images, should be placed in a way that clearly indicates hierarchy.",
       "publish": true
     },
-    "3": {
-      "title": "Do's and Don'ts",
-      "index": 3,
+    "2": {
+      "title": "Dos and Don’ts",
+      "index": 2,
       "datatype": "two-columns",
       "content": {
         "subtitle1": "Do",
         "subtitle2": "Don't",
-        "text1": "Browsing experience - Provide a summary of similar items. Examples: commerce sites (products cards), price plans, kanban board, Pinterest.\nSummary page - Provide summaries of many/different kinds of content on the same page, such as dashboards, news feeds, blogs, etc.\nEmphasize few results - When you want to emphasize a few results over the rest. For example, show the first 3 results as cards and all the rest in a list or table.\nMobile view - on mobile, card view might be used instead of a tabular view.",
-        "text2": "Search experience (as search results) - when users are goal oriented to finding a specific item, card is less appropriate than a list.\nAs section divider - Don't force content into cards when spacing, headlines, or dividers would create a simpler visual hierarchy.\nComparing items - if users need to compare items, a list of table views are more appropriate.\nIn all the above cases, a card layout will be less appropriate because it is less scannable than a list and it takes a lot of space (less scrolling means less demand on users' short-term memory).\nFor search, consider using vertical cards (like a list, see below). For example: events list, contacts list, playlists etc."
+        "text1": "Browsing experience - Provide a summary of similar items. Examples: commerce sites (products cards), price plans, kanban board, Pinterest.\nSummary page - Provide summaries of many/different kinds of content on the same page, such as dashboards, news feeds, blogs, etc.\nEmphasize few results - When you want to emphasize a few results over the rest. For example, show the first 3 results as cards and all the rest in a list or table.\nMobile view - on mobile, card view might be used instead of a tabular view.\nMobile view - on mobile, card view might be used instead of a tabular view.\nMobile view - on mobile, card view might be used instead of a tabular view.\nMobile view - on mobile, card view might be used instead of a tabular view.\nMobile view - on mobile, card view might be used instead of a tabular view.\nMobile view - on mobile, card view might be used instead of a tabular view.",
+        "text2": "Search experience (as search results) - when users are goal oriented to finding a specific item, card is less appropriate than a list.\nAs section divider - Don't force content into cards when spacing, headlines, or dividers would create a simpler visual hierarchy.\nComparing items - if users need to compare items, a list of table views are more appropriate. "
       },
       "publish": true
     },
-    "4": {
+    "3": {
       "title": "How to use",
-      "index": 4,
+      "index": 3,
       "datatype": "list",
       "publish": true,
       "content": {
         "inputs": [
-          "Keep it simple – cards should contain only required element to create focused view, don’t undercut this focus by adding complexity into you card.",
-          "Keep it consistent – use similar structure for all cards in the same group / of the same kind.",
-          "Set the priority - make sure that the content in the card has visual hierarchy. Prioritize the most important information.",
-          "Call for action – don’t add many call to action to your card, keep them at the end of the card. If you have many actions use action menu. If you have only one action, make the whole card clickable.",
-          "Give space - use grid which has same spacing between the cards, for easier scanning.",
-          "Don’t mix - card cannot be inside another card or divided into multiple cards.",
-          "Don’t scroll - A card should not have a vertical scroll, truncate the text, expand the card with a click or adjust the card size.",
-          "One unified unit - card can be stand-alone unit, it can be display without relying on another element in the page. It is not possible to swipe portions of the card, swipe should work on the whole card, and it should have only one swipe action assigned to it."
+          "Would otherwise be in a grid list but needs to display more content to supplement the image",
+          "Contains interactive content, such as +1 buttons or comments",
+          "Supports content of highly variable length, such as comments",
+          "Does not require direct comparison (a user is not directly comparing images or text)",
+          "Supports content of highly variable length, such as comments",
+          "Contains interactive content, such as +1 buttons or comments",
+          "Contains interactive content, such as +1 buttons or comments",
+          "Contains interactive content, such as +1 buttons or comments",
+          "Contains interactive content, such as +1 buttons or comments",
+          "Contains interactive content, such as +1 buttons or comments",
+          "Contains interactive content, such as +1 buttons or comments",
+          "Contains interactive content, such as +1 buttons or comments"
         ],
         "listType": "unordered"
       }
     },
+    "4": {
+      "title": "Spacing & Radius",
+      "index": 4,
+      "datatype": "image",
+      "publish": true,
+      "content": {
+        "localFilePath": "",
+        "remoteImageLink": "https://lh3.googleusercontent.com/WRXHl4-uwq8yRabkTfk2ptrGdPhaUWYNVNzqOI9mKYnSaonbjwx4cLKSWboln_qmOssCD-I3GKffb7Ggg5-3xxgpCggX7hF8QGxaqfNalZhT=s0"
+      }
+    },
     "5": {
-      "title": "Vertical",
-      "index": 5,
-      "datatype": "image",
-      "publish": true,
-      "content": {
-        "localFilePath": "",
-        "remoteImageLink": "https://xdc.invisionapp.com/assets/A_MGFjZjlkZDY2YjhlM2JmOS_lD2ON55Xorcb5qEJ66gV1dIMpe7Ojry4YAnohQVN0wk6Sq9aIwDJsRYmQzeKfQl8GlbrfXmPgtzMZru-Lb2g=?assetKey=xdc%2Fads-coral%2Fimage-B190yz533.png"
-      }
-    },
-    "6": {
-      "title": "Horizontal",
-      "index": 6,
-      "datatype": "image",
-      "publish": true,
-      "content": {
-        "localFilePath": "",
-        "remoteImageLink": "https://xdc.invisionapp.com/assets/A_MGFjZjlkZDY2YjhlM2JmOdr7AcN35piIxkzDfGrx2Kry5Z7eIFLFFahp_2em7vrSM5i2ZnemhGU9F-NGa1CL79CuQNkB0eJ-IuVcduv0Hbg=?assetKey=xdc%2Fads-coral%2Fimage-SkDWef9n2.png"
-      }
-    },
-    "7": {
       "title": "Related components and patterns",
-      "index": 7,
+      "index": 5,
       "datatype": "link",
       "publish": true,
       "content": {
         "sources": [
           {
             "source": "Card button",
-            "link": "https://www.figma.com/proto/9KXDuflEXQTfqirV9D7lYu/Amdocs-Documentation?page-id=368%3A2359&type=design&node-id=472-24925&viewport=1286%2C725%2C0.28&t=2u6Ut0hXlV2wX8Md-1&scaling=min-zoom&mode=design"
+            "link": "https://www.figma.com/file/2hRi6LKe0Oat9Zi4jGYptR/Tidy-Guide-V.2--MVP?type=design&node-id=154-13391&mode=design&t=EkAdrLnERxhJ0eZh-4"
+          },
+          {
+            "source": "Card documentation",
+            "link": "https://www.figma.com/file/2hRi6LKe0Oat9Zi4jGYptR/Tidy-Guide-V.2--MVP?type=design&node-id=154-13391&mode=design&t=EkAdrLnERxhJ0eZh-4"
+          },
+          {
+            "source": "NNg",
+            "link": "https://www.nngroup.com/"
+          },
+          {
+            "source": "Material Design",
+            "link": "https://m3.material.io/"
+          },
+          {
+            "source": "Carbon Design System (IBM)",
+            "link": "https://carbondesignsystem.com/"
           }
         ]
       }
     },
-    "8": {
-      "title": "Video from \"Library\"",
-      "index": 8,
-      "datatype": "video",
-      "publish": true,
-      "content": {
-        "selectedVideo": 0,
-        "selectedVideoContent": {
-          "element": "Card",
-          "name": "Basic card element",
-          "video": "https://www.youtube.com/embed/HJN_Q01ZnM4?si=g5kAoHcObtLhT6Tj",
-          "thumbnail": "https://img.youtube.com/vi/HJN_Q01ZnM4/sddefault.jpg"
-        }
-      }
-    },
-    "9": {
-      "title": "",
-      "index": 9,
+    "6": {
+      "title": "Test video from Youtube",
+      "index": 1,
       "datatype": "video",
       "publish": true,
       "content": {
         "selectedVideo": 0,
         "selectedVideoContent": {
           "element": "video",
-          "name": "You Will Never Do Anything Remarkable",
-          "video": "https://www.youtube.com/embed/vmIUvp0e1bw",
-          "thumbnail": "https://i.ytimg.com/vi/vmIUvp0e1bw/default.jpg"
+          "name": "Learn The MERN Stack - Redux Goals & Deply",
+          "video": "https://www.youtube.com/embed/UXjMo25Nnvc",
+          "thumbnail": "https://i.ytimg.com/vi/UXjMo25Nnvc/sddefault.jpg"
         }
       }
-    },
-    "10": {
-      "title": "MUI Reference",
-      "index": 10,
-      "datatype": "link",
-      "publish": true,
-      "content": {
-        "sources": [
-          {
-            "source": "MUI Reference",
-            "link": "https://mui.com/material-ui/react-card/"
-          }
-        ]
-      }
-    },
-    "11": {
-      "title": "Release Notes",
-      "index": 11,
-      "datatype": "element",
-      "publish": false
     }
   },
   "8470:1817": {
