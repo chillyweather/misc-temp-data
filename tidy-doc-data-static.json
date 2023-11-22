@@ -1,3 +1,126 @@
 {
-  "0": "{"
+  "0": "{",
+  "8470:1800": {
+    "0": {
+      "title": "Card",
+      "index": 0,
+      "datatype": "header",
+      "element": {
+        "id": "8470:1800"
+      },
+      "content": {
+        "elementDescription": "A card component is a basic building block of many user interfaces, often used in web and mobile design.\nIt is typically used to display information or content in a compact and organized manner, often featuring an image, title, and description. Card components can be used in various ways, such as displaying articles, products, or profiles, and can be customized to fit the specific needs of a project.",
+        "externalResources": [
+          {
+            "source": "Invision",
+            "link": "https://xdc.invisionapp.com/dsm/xdc/ads-coral/nav/618b927d570ae67e07227cea/asset/62bc5a590a8fda653ca8834e/tab/usage%20guidelines?version=64e4797d08c5154790f01222&mode=preview"
+          },
+          {
+            "source": "Storybook",
+            "link": "https://storybook.js.org/"
+          }
+        ]
+      },
+      "publish": true,
+      "inProgress": true,
+      "docId": ""
+    },
+    "1": {
+      "title": "Intro",
+      "index": 1,
+      "datatype": "text",
+      "text": "A card is a container used to group various pieces of content which acts as entry point to detailed information. It displays content and actions on a single topic.\nA card should be easy to scan for relevant and actionable information. Elements, like text and images, should be placed in a way that clearly indicates hierarchy.",
+      "publish": true
+    },
+    "2": {
+      "title": "Dos and Don’ts",
+      "index": 2,
+      "datatype": "two-columns",
+      "content": {
+        "subtitle1": "Do",
+        "subtitle2": "Don't",
+        "text1": "Browsing experience - Provide a summary of similar items. Examples: commerce sites (products cards), price plans, kanban board, Pinterest.\nSummary page - Provide summaries of many/different kinds of content on the same page, such as dashboards, news feeds, blogs, etc.\nEmphasize few results - When you want to emphasize a few results over the rest. For example, show the first 3 results as cards and all the rest in a list or table.\nMobile view - on mobile, card view might be used instead of a tabular view.\nMobile view - on mobile, card view might be used instead of a tabular view.\nMobile view - on mobile, card view might be used instead of a tabular view.\nMobile view - on mobile, card view might be used instead of a tabular view.\nMobile view - on mobile, card view might be used instead of a tabular view.\nMobile view - on mobile, card view might be used instead of a tabular view.",
+        "text2": "Search experience (as search results) - when users are goal oriented to finding a specific item, card is less appropriate than a list.\nAs section divider - Don't force content into cards when spacing, headlines, or dividers would create a simpler visual hierarchy.\nComparing items - if users need to compare items, a list of table views are more appropriate. "
+      },
+      "publish": true
+    },
+    "3": {
+      "title": "How to use",
+      "index": 3,
+      "datatype": "list",
+      "publish": true,
+      "content": {
+        "inputs": [
+          "Would otherwise be in a grid list but needs to display more content to supplement the image",
+          "Contains interactive content, such as +1 buttons or comments",
+          "Supports content of highly variable length, such as comments",
+          "Does not require direct comparison (a user is not directly comparing images or text)",
+          "Supports content of highly variable length, such as comments",
+          "Contains interactive content, such as +1 buttons or comments",
+          "Contains interactive content, such as +1 buttons or comments",
+          "Contains interactive content, such as +1 buttons or comments",
+          "Contains interactive content, such as +1 buttons or comments",
+          "Contains interactive content, such as +1 buttons or comments",
+          "Contains interactive content, such as +1 buttons or comments",
+          "Contains interactive content, such as +1 buttons or comments"
+        ],
+        "listType": "unordered"
+      }
+    },
+    "4": {
+      "title": "Spacing & Radius",
+      "index": 4,
+      "datatype": "image",
+      "publish": true,
+      "content": {
+        "localFilePath": "",
+        "remoteImageLink": "https://lh3.googleusercontent.com/WRXHl4-uwq8yRabkTfk2ptrGdPhaUWYNVNzqOI9mKYnSaonbjwx4cLKSWboln_qmOssCD-I3GKffb7Ggg5-3xxgpCggX7hF8QGxaqfNalZhT=s0"
+      }
+    },
+    "5": {
+      "title": "Related components and patterns",
+      "index": 5,
+      "datatype": "link",
+      "publish": true,
+      "content": {
+        "sources": [
+          {
+            "source": "Card button",
+            "link": "https://www.figma.com/file/2hRi6LKe0Oat9Zi4jGYptR/Tidy-Guide-V.2--MVP?type=design&node-id=154-13391&mode=design&t=EkAdrLnERxhJ0eZh-4"
+          },
+          {
+            "source": "Card documentation",
+            "link": "https://www.figma.com/file/2hRi6LKe0Oat9Zi4jGYptR/Tidy-Guide-V.2--MVP?type=design&node-id=154-13391&mode=design&t=EkAdrLnERxhJ0eZh-4"
+          },
+          {
+            "source": "NNg",
+            "link": "https://www.nngroup.com/"
+          },
+          {
+            "source": "Material Design",
+            "link": "https://m3.material.io/"
+          },
+          {
+            "source": "Carbon Design System (IBM)",
+            "link": "https://carbondesignsystem.com/"
+          }
+        ]
+      }
+    },
+    "6": {
+      "title": "Test video from Youtube",
+      "index": 1,
+      "datatype": "video",
+      "publish": true,
+      "content": {
+        "selectedVideo": 0,
+        "selectedVideoContent": {
+          "element": "video",
+          "name": "Learn The MERN Stack - Redux Goals & Deply",
+          "video": "https://www.youtube.com/embed/UXjMo25Nnvc",
+          "thumbnail": "https://i.ytimg.com/vi/UXjMo25Nnvc/sddefault.jpg"
+        }
+      }
+    }
+  }
 }
