@@ -217,5 +217,67 @@
         "remoteImageLink": ""
       }
     }
+  },
+  "136:3922": {
+    "0": {
+      "title": "Status",
+      "index": 0,
+      "datatype": "header",
+      "element": {
+        "id": "136:3922"
+      },
+      "content": {
+        "firstResource": "",
+        "firstResourceLink": "",
+        "secondResource": "",
+        "secondResourceLink": ""
+      },
+      "publish": true,
+      "inProgress": true,
+      "docId": ""
+    },
+    "1": {
+      "title": "How to use",
+      "index": 1,
+      "datatype": "text",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra nisl vitae aliquet feugiat. Proin sollicitudin, eros eget scelerisque placerat, mi lectus blandit dui, vel tempus justo lectus non risus. Vestibulum at erat quis mauris malesuada elementum. Nulla lectus metus, cursus quis interdum ac, fermentum non risus. Vivamus et nulla suscipit, rutrum orci at, porta leo. Nunc vitae finibus magna, ut consectetur quam. Vivamus rhoncus sed mi sit amet bibendum.\n\nAliquam quis tortor a sapien faucibus dignissim. Etiam eu ante quis nisi aliquet mattis non sed velit. Etiam sem felis, ultrices at varius ultricies, elementum et nisl. Praesent dui libero, semper sit amet nisl vitae, luctus tincidunt tortor. Aliquam erat volutpat. Donec efficitur, felis eget rutrum sagittis, nunc lorem finibus neque, sit amet fringilla ante erat vel orci. Proin urna odio, faucibus nec porta sed, hendrerit id augue. In tellus ipsum, bibendum nec lobortis quis, molestie quis odio. Morbi facilisis dolor vitae odio ornare tincidunt.",
+      "publish": true
+    },
+    "2": {
+      "title": "Allowed Behavior",
+      "index": 2,
+      "datatype": "two-columns",
+      "content": {
+        "subtitle1": "Do this",
+        "subtitle2": "Don't do this",
+        "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra nisl vitae aliquet feugiat. Proin sollicitudin, eros eget scelerisque placerat, mi lectus blandit dui, vel tempus justo lectus non risus. Vestibulum at erat quis mauris malesuada elementum. Nulla lectus metus, cursus quis interdum ac, fermentum non risus. Vivamus et nulla suscipit, rutrum orci at, porta leo. Nunc vitae finibus magna, ut consectetur quam. Vivamus rhoncus sed mi sit amet bibendum.",
+        "text2": "Aliquam quis tortor a sapien faucibus dignissim. Etiam eu ante quis nisi aliquet mattis non sed velit. Etiam sem felis, ultrices at varius ultricies, elementum et nisl. Praesent dui libero, semper sit amet nisl vitae, luctus tincidunt tortor. Aliquam erat volutpat. Donec efficitur, felis eget rutrum sagittis, nunc lorem finibus neque, sit amet fringilla ante erat vel orci. Proin urna odio, faucibus nec porta sed, hendrerit id augue. In tellus ipsum, bibendum nec lobortis quis, molestie quis odio. Morbi facilisis dolor vitae odio ornare tincidunt."
+      },
+      "publish": true
+    },
+    "3": {
+      "title": "Links",
+      "index": 3,
+      "datatype": "link",
+      "publish": true,
+      "content": {
+        "sources": [
+          {
+            "source": "Google",
+            "link": "https://www.google.com/"
+          }
+        ]
+      }
+    },
+    "4": {
+      "title": "Videos playlist",
+      "index": 4,
+      "datatype": "video",
+      "publish": true,
+      "content": {
+        "selectedVideo": -1,
+        "selectedVideoContent": {}
+      }
+    }
   }
 }
